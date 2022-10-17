@@ -37,7 +37,7 @@ global.sdc = '-' //discord
 global.snh = 'https://youtube.com/c/DenaraBot' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '085727492435' //dana
+global.pdana = '085706032320' //dana
 global.povo = '085727492435' //ovo
 global.pgopay = 'minta ke owner' //gopay
 global.plinkaja = '085727492435' //link aja
@@ -46,10 +46,10 @@ global.ppulsa2 = '085727492435' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/denarabot26'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285727492435'
+global.nomorbot = '16092374334'
 global.nomorown = '6281215626270'
-global.namebot = 'DENARA-BOT-V1'
-global.nameown = 'DENARA BOT'
+global.namebot = 'ZEROX-BOT'
+global.nameown = 'ZEROX-BOT'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
